@@ -1,0 +1,23 @@
+name: bearings
+favicon: null
+layout_spectrum: 0.06628152588382363
+typography_spectrum: 0.9987458852119744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2896488339174539
+  lightness: 0.10522075602784753
+  saturation: 0.9438856560736895
+  rhythmicContrast: 0.4863763286266476
+purpose: []
